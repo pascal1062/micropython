@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 252.0,
+		"history":
+		[
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pascal/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/extension.js",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/python/tcp_client.py",
+		"/home/pascal/Documents/Projets/micropython/spi_mcp3008.py",
+		"/home/pascal/Bureau/ioBoard_circuitpython_2019",
+		"/tmp/fz3temp-2/logger.txt",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/python/bt_client-tcp_server.py",
+		"/home/pascal/Bureau/serial USB baud 76800",
+		"/home/pascal/Documents/Programmes/BACnet/bacnet-stack-0.8.6_mstp_USB0/bin/mstp_20181209084629.cap",
+		"/home/pascal/Documents/Programmes/BACnet/bacnet-stack-0.8.6_mstp_USB0/bin/mstp_20181209085609.cap",
+		"/home/pascal/Bureau/terminal.py",
+		"/home/pascal/Bureau/serial_rx_tx.py",
+		"/home/pascal/Documents/Programmes/BACnet/bacnet-stack-0.8.2/demo/mstpcap/main.c",
+		"/home/pascal/Bureau/serial.py",
+		"/home/pascal/Bureau/PG_CTRL_UNITE_PLESSIS_ancien",
+		"/home/pascal/Bureau/OMHR",
+		"/home/pascal/.local/share/gnome-shell/extensions/tempindicator@pascal1062.gmail.com/extension.js",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/python/bluetooth_hc06_example.py",
+		"/home/pascal/Documents/Projets/python/bluetooth/example_1/tcp_client.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/client_bluetooth.py",
+		"/home/pascal/Documents/Projets/python/bluetooth/example_1/bt_client-tcp_server.py",
+		"/home/pascal/Documents/Projets/python/bluetooth/example_1/client_bluetooth.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/client_bluetooth.py.py",
+		"/home/pascal/Documents/Projets/python/bluetooth/example_1/client_bluetooth_2.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/extension_old.js",
+		"/home/pascal/Documents/Projets/python/bluetooth/example_1/client_bluetooth_snd.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/icons/sensors-temperature-symbolic.svg",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/icons/freon-gpu-temperature-symbolic.png",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/metadata.json",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/extension_new.js",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/stylesheet.css",
+		"/home/pascal/.local/share/gnome-shell/extensions/tempindicator@pascal1062.gmail.com/stylesheet.css",
+		"/home/pascal/.local/share/gnome-shell/extensions/tempindicator@pascal1062.gmail.com/extension_old.js",
+		"/run/user/1000/gvfs/sftp:host=192.168.0.153/home/pi/pascal/python/server_bluetooth_pwm.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/stylesheet_new.css",
+		"/home/pascal/.local/share/gnome-shell/extensions/Hello_World@pascal-Latitude-3560/python-alert.py",
+		"/home/pascal/Bureau/python-alert.py",
+		"/home/pascal/.local/share/gnome-shell/extensions/gnomenu@panacier.gmail.com/extension.js",
+		"/home/pascal/.local/share/gnome-shell/extensions/gnomenu@panacier.gmail.com/metadata.json",
+		"/home/pascal/.local/share/gnome-shell/extensions/openweather-extension@jenslody.de/metadata.json",
+		"/home/pascal/.local/share/gnome-shell/extensions/openweather-extension@jenslody.de/stylesheet.css",
+		"/home/pascal/.local/share/gnome-shell/extensions/openweather-extension@jenslody.de/extension.js",
+		"/home/pascal/.local/share/gnome-shell/extensions/openweather-extension@jenslody.de/weather-settings.ui",
+		"/home/pascal/.local/share/applications/eclipse-cpp.desktop",
+		"/home/pascal/.local/share/gnome-shell/extensions/tempindicator@pascal1062.gmail.com/metadata.json",
+		"/home/pascal/eclipse-workspace/RemoteSystemsTempFiles/.project",
+		"/home/pascal/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/pascal/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/pascal/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/pascal/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/pascal/PycharmProjects/bacpypes-pascal/DeviceDiscoveryForeign.py",
+		"/home/pascal/Documents/Projets/python/bacpypes_new/samples/BACpypes.ini",
+		"/home/pascal/Documents/Projets/python/bacpypes_new/samples/DeviceDiscoveryForeign.py",
+		"/home/pascal/Documents/Projets/python/bacpypes/samples/BACpypes.ini",
+		"/home/pascal/Documents/Projets/python/bacpypes/samples/DeviceDiscoveryForeign.py",
+		"/home/pascal/Documents/Projets/python/bacpypes/samples/MultipleReadPropertyThreaded.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"55ff",
+			"AE1",
+			"EVR1",
+			"AE1",
+			"ALIM",
+			"&",
+			"\t ",
+			" \t ",
+			"\t",
+			"99",
+			"08",
+			"07",
+			"\t",
+			"|",
+			"\t",
+			"me.",
+			"soup",
+			"Me.",
+			"Util.",
+			"Util",
+			"util",
+			"utie",
+			"client_address",
+			"popupMenuExpander",
+			"PopupMenuExample",
+			"actor",
+			"icon",
+			"clutter",
+			"slider.setValue",
+			"twe",
+			"clutter",
+			"Switcher",
+			"settings",
+			"label",
+			"PanelMenu",
+			"Panelmenu",
+			"panelmenu",
+			"tween",
+			"press",
+			"metadata",
+			"init",
+			"Me.",
+			"Me",
+			"metadata",
+			"icons",
+			"init",
+			"icons",
+			"icon",
+			"Icon",
+			"icon",
+			"run",
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ERV1",
+			"EVR1",
+			"EVAC",
+			"& \"|\" &",
+			" & ",
+			"",
+			"98",
+			"99",
+			"08",
+			"",
+			",",
+			"",
+			",",
+			"",
+			"LedLightControl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "main2.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
