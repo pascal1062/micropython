@@ -1,0 +1,21 @@
+
+#faire une classe AnalogValue()  pour éviter d'utiliser des variables local...exemple avec mon affaire de pompe MQTT:
+#pas de besoin de faire un def avec une global...
+
+from av import AnalogValue
+
+AV1 = AnalogValue(1, "irrig_time")
+AV1.value = 0
+
+
+#mqtt subscribe
+def sub_cb(topic, msg):
+    if topic == b'/esp8266/ioboard/valve' and msg == b'{"trig":"On","time":5}': BO3.value = True; AV1.value = 300
+
+
+
+    #automation program for irrigation pump BO3 through MQTT
+    if t3.running() and t3.changed(60): pub_cb('/esp8266/ioboard/countdown', str((AV1.value - t3.elapsed())/60))
+    if t3.running() and (AV1.value - t3.elapsed()) <= 0: t3.stop(); BO3.value = False
+    if t3.running() and BO3.falling(): t3.stop()
+    if not t3.running() and BO3.rising(): t3.start()
